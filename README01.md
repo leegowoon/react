@@ -18,5 +18,7 @@
   ![image](https://github.com/leegowoon/react/assets/145514701/537befd1-a39f-4f71-8d8f-f14725bcdb6c)
 * node.js를 설치하면 npm이 자동으로 설치됨
 * ![image](https://github.com/leegowoon/react/assets/145514701/e4d49c1d-0377-4ba9-9865-f159e9efd2ee)
-
 * 
+* npx는 npm이 설치될 때 함께 설치가 된다.
+* npm >> 외부 라이브러리를 쉽게 설치하고 버전을 관리할 수 있게 한다. >> package.json를 만들게 된다.
+* npx >> 라이브러리를 개별적으로 실행하고자 할 때 사용하는 것임
