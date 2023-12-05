@@ -56,8 +56,11 @@ npm start
 # format save 설정하기
 - ![image](https://github.com/leegowoon/react/assets/145514701/3899caa4-8be8-43c6-8be7-5ac41c6a3f01)
 
-- 체크하기
+- Editor: Format On Save >> 체크하기
 - ![image](https://github.com/leegowoon/react/assets/145514701/41a3b5de-1f47-4182-b2dd-4b07091621a3)
+
+- Editor: Default Formatter >> prettier 체크하기
+- ![image](https://github.com/leegowoon/react/assets/145514701/15e53888-62ec-4e8a-b057-ae2056a7bf0b)
 
 
 
