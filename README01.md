@@ -47,7 +47,12 @@ npm start
 - 페이지를 매번 새로 가져올 필요가 없음, 웹사이트를 모바일처럼 사용할 수 있음
 
 # react 확장프로그램
+- react 기본구조만들기
 - ![image](https://github.com/leegowoon/react/assets/145514701/0cf7aaef-43af-47e9-bd1d-f06855dd10b5)
+
+- react 코드 정렬
+- ![image](https://github.com/leegowoon/react/assets/145514701/43eab179-d944-4d57-a551-c963a323c208)
+
 
 
 
