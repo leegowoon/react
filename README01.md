@@ -53,6 +53,11 @@ npm start
 - react 코드 정렬
 - ![image](https://github.com/leegowoon/react/assets/145514701/43eab179-d944-4d57-a551-c963a323c208)
 
+# format save 설정하기
+![image](https://github.com/leegowoon/react/assets/145514701/3899caa4-8be8-43c6-8be7-5ac41c6a3f01)
+
+![image](https://github.com/leegowoon/react/assets/145514701/41a3b5de-1f47-4182-b2dd-4b07091621a3)
+
 
 
 
