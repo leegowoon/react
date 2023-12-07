@@ -12,3 +12,20 @@ http://react.dev/learn#writing-markup-with-jsx
  <div style={{ width: "300px", height: "200px" }}>추가하기</div>
 ```
 
+```
+import "./App.css";
+
+function App() {
+  const name = "강아지";
+  return (
+    <>
+      <div className="App">
+        <p> {`${name} 시작하기`}</p>
+      </div>
+      <div style={{ width: "300px", height: "200px" }}>추가하기</div>
+    </>
+  );
+}
+
+export default App;
+```
