@@ -83,7 +83,8 @@ npm start
 - components 폴더만들기 > 파일이름 무조건 대문자 ex) Box.jsx
 - ![image](https://github.com/leegowoon/react/assets/145514701/03acaa58-36c1-4501-bc20-783a319bd994)
 - jsx > racfe
-- 
+
+  
 
 
 
