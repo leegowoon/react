@@ -62,6 +62,20 @@ npm start
 - Editor: Default Formatter >> prettier 체크하기
 - ![image](https://github.com/leegowoon/react/assets/145514701/15e53888-62ec-4e8a-b057-ae2056a7bf0b)
 
+---
+# 새로운 폴더 만들기
+  ```
+  # React홈페이지 > 새로운 React 앱 만들기
+  npx create-react-app my-app
+  cd my-app
+  npm start
+  ```
+  - my-app 폴더 shift+우클릭 > [여기에 Powershell]창 열기 > 창이 열리면
+  1) npx create-react-app my-app2
+  2) dir
+  3) cd my-app2
+  4) npm start
+
 
 
 
