@@ -66,3 +66,18 @@ function App() {
 
 export default App;
 ```
+---
+- 기본셋팅
+```
+import "./App.css";
+
+
+function App() {
+  return(
+    <>
+    </>
+  )
+}
+
+export default App;
+```
