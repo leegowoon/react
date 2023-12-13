@@ -28,5 +28,8 @@ const [num,setNum]=useState(0)
 ![image](https://github.com/leegowoon/react/assets/145514701/388c03e7-50e9-4cf0-901d-7beb5a56ee1b)
 
 ---
-- 12일 13일
+# 12/13(수)
+- 부분적으로 값 받기
 ![image](https://github.com/leegowoon/react/assets/145514701/1cf4c4a0-d023-4ea7-84d9-c9bceded38c9)
+![image](https://github.com/leegowoon/react/assets/145514701/48cddade-bb32-4f9e-8bf3-4a7d12da99b1)
+
