@@ -33,3 +33,35 @@ const [num,setNum]=useState(0)
 ![image](https://github.com/leegowoon/react/assets/145514701/1cf4c4a0-d023-4ea7-84d9-c9bceded38c9)
 ![image](https://github.com/leegowoon/react/assets/145514701/48cddade-bb32-4f9e-8bf3-4a7d12da99b1)
 
+- 구조분해
+![image](https://github.com/leegowoon/react/assets/145514701/2da7c95b-6a07-47c5-bfe2-3d2a0ded38d7)
+```
+import React from 'react'
+
+const Profile = ({img,name,title,isNew}) => {
+    // || >> 또는 A || B 둘 중에 하나라도 True 이면 True
+    // && >> 그리고 A && B 둘 중에 하나라도 false이면 false
+  
+  //console.log(props)
+  // const img = props.img;
+  // const name = props.name;
+  // const title = props.title;
+  // const isNew = props.isNew;
+
+  // 구조분해 destructure
+  //const {img,name,title,isNew}=props;
+
+  return (
+    <div className='profile'>
+        <img src={img} alt="avatar" />
+        {/* {isNew?<span className='new'>신입</span>:""} */}
+        {isNew && <span className='new'>신입</span>}
+        <h2>{name}</h2>
+        <p>{title}</p>
+    </div>
+  )
+}
+
+export default Profile
+```
+
