@@ -66,5 +66,15 @@ const Profile = ({img,name,title,isNew}) => {
 
 export default Profile
 ```
+```
+const Profile = ({img,name,title,isNew}) >> props대신 이렇게 적으면 밑에 props.img >> img 로 적을 수 있다.
+
+<img src={img} alt="avatar" />
+        {/* {isNew?<span className='new'>신입</span>:""} */}
+        {isNew && <span className='new'>신입</span>}
+        <h2>{name}</h2>
+        <p>{title}</p>
+
+```
 ![image](https://github.com/leegowoon/react/assets/145514701/2da7c95b-6a07-47c5-bfe2-3d2a0ded38d7)
 
