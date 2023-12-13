@@ -34,7 +34,7 @@ const [num,setNum]=useState(0)
 ![image](https://github.com/leegowoon/react/assets/145514701/48cddade-bb32-4f9e-8bf3-4a7d12da99b1)
 
 - 구조분해
-![image](https://github.com/leegowoon/react/assets/145514701/2da7c95b-6a07-47c5-bfe2-3d2a0ded38d7)
+
 ```
 import React from 'react'
 
@@ -64,4 +64,5 @@ const Profile = ({img,name,title,isNew}) => {
 
 export default Profile
 ```
+![image](https://github.com/leegowoon/react/assets/145514701/2da7c95b-6a07-47c5-bfe2-3d2a0ded38d7)
 
