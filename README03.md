@@ -25,4 +25,9 @@
 # 12/11
 ![image](https://github.com/leegowoon/react/assets/145514701/8c633cb1-9f4c-4cc9-a4c7-5b123682c813)
 
+- 구조분해
+![image](https://github.com/leegowoon/react/assets/145514701/2da7c95b-6a07-47c5-bfe2-3d2a0ded38d7)
+
+
+
 
