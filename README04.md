@@ -79,7 +79,7 @@ const Profile = ({img,name,title,isNew}) >> props대신 이렇게 적으면 밑�
 ![image](https://github.com/leegowoon/react/assets/145514701/2da7c95b-6a07-47c5-bfe2-3d2a0ded38d7)
 
 ---
-# 12/14(목)
+# 12/14(목) >> src2
 - ![image](https://github.com/leegowoon/react/assets/145514701/c0f99bae-b4f9-496e-b323-38454aab852e)
 - ![image](https://github.com/leegowoon/react/assets/145514701/4dc8ac24-3df7-40d7-a4a5-fe498ca92a5e)
 - const를 써도 되는 이유 >> 값이 바뀐게 아니라 프로그램이 다시 실행되는 것처럼 화면을 다시 쓴다.
