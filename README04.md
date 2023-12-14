@@ -11,7 +11,7 @@ const [num,setNum]=useState(0)
 
 - ![image](https://github.com/leegowoon/react/assets/145514701/f6eb9f38-99c6-48f3-8041-229d05953c9c)
 ---
-# 12/12(화)
+# 🍨12/12(화)
 ![image](https://github.com/leegowoon/react/assets/145514701/6eb38617-0680-4909-b3ea-171ff8dfed7c)
 - 변수는 {}안에
 - {`${name}안녕`}
@@ -30,7 +30,7 @@ const [num,setNum]=useState(0)
 ![image](https://github.com/leegowoon/react/assets/145514701/388c03e7-50e9-4cf0-901d-7beb5a56ee1b)
 
 ---
-# 12/13(수) >> src
+# 🍨12/13(수) >> src
 - 부분적으로 값 받기
 ![image](https://github.com/leegowoon/react/assets/145514701/1cf4c4a0-d023-4ea7-84d9-c9bceded38c9)
 ![image](https://github.com/leegowoon/react/assets/145514701/48cddade-bb32-4f9e-8bf3-4a7d12da99b1)
@@ -79,7 +79,7 @@ const Profile = ({img,name,title,isNew}) >> props대신 이렇게 적으면 밑�
 ![image](https://github.com/leegowoon/react/assets/145514701/2da7c95b-6a07-47c5-bfe2-3d2a0ded38d7)
 
 ---
-# 12/14(목) >> src2
+# 🍨12/14(목) >> src2
 - ![image](https://github.com/leegowoon/react/assets/145514701/c0f99bae-b4f9-496e-b323-38454aab852e)
 - ![image](https://github.com/leegowoon/react/assets/145514701/4dc8ac24-3df7-40d7-a4a5-fe498ca92a5e)
 - const를 써도 되는 이유 >> 값이 바뀐게 아니라 프로그램이 다시 실행되는 것처럼 화면을 다시 쓴다.
