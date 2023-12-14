@@ -86,7 +86,7 @@ const Profile = ({img,name,title,isNew}) >> props대신 이렇게 적으면 밑�
 - useState >> react 훅(use가 앞에 들어가면) >> 쓰는 이유
 
 - ![image](https://github.com/leegowoon/react/assets/145514701/54efda2c-0491-42c1-b787-edeb894df03a)
- ```
+```
 import { useState } from "react";
 import "./App.css";
 import Profile from "./components/Profile";
