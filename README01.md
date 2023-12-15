@@ -63,7 +63,7 @@ npm start
 - ![image](https://github.com/leegowoon/react/assets/145514701/15e53888-62ec-4e8a-b057-ae2056a7bf0b)
 
 ---
-# 새로운 폴더 만들기
+# 🧁새로운 폴더 만들기
   ```
   # React홈페이지 > 새로운 React 앱 만들기
   npx create-react-app my-app
