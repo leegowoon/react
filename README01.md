@@ -71,7 +71,7 @@ npm start
   npm start
   ```
   - my-app 폴더 shift+우클릭 > [여기에 Powershell]창 열기 > 창이 열리면
-  1) npx create-react-app my-app2
+  1) npx create-react-app my-app2(원하는 폴더명)
   2) dir
   3) cd my-app2
   4) npm start
