@@ -2,9 +2,15 @@
 
 - 공식사이트 주소 : https://reactrouter.com/en/main/start/tutorial
 
-1) 설치하기 -- npm install react-router-dom
-2) BrowserRouter 적기
-- ![image](https://github.com/leegowoon/react/assets/145514701/84dd5d00-db91-4e0c-a5fe-e55ac4589f32)
+# 설치하기 -- npm install react-router-dom
+1. BrowserRouter 적기 -- BrowserRouter는 react 전체를 싸주어야한다.
+  ![image](https://github.com/leegowoon/react/assets/145514701/84dd5d00-db91-4e0c-a5fe-e55ac4589f32)
+2. page안에 js를 만든다. > import로 연결하기
+  ![image](https://github.com/leegowoon/react/assets/145514701/eae34ce7-bade-449d-8af9-240442aac45f)
+
+4. App.js에 Routes만들기 > 그 안에 Route만들기 > Routes,Route import로 연결하기
+5. Route path="/" 슬래시는 첫번째 페이지를 의미
+6. 
   
 - ![image](https://github.com/leegowoon/react/assets/145514701/15fd3beb-3f59-4404-b120-0960198f389f)
 - ![image](https://github.com/leegowoon/react/assets/145514701/01861b3a-0154-4570-9eca-133a607d03d2)
@@ -17,5 +23,4 @@
 
 # ☕ 버튼을 클릭해서 페이지로 갈 때(함수안에서 사용하는 방법)
 - 
-
--
+- 
