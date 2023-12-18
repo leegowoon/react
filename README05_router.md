@@ -10,6 +10,11 @@
 - ![image](https://github.com/leegowoon/react/assets/145514701/01861b3a-0154-4570-9eca-133a607d03d2)
 - ![image](https://github.com/leegowoon/react/assets/145514701/8834f4f2-0d6f-4d4d-864f-382f3d42f236)
 
+---
+# 🍹 링크로 연결해서 페이지로 갈 때
+- Link는 a 태그로 반환된다. 라우터간에 이동할 수 있게 도와주는 링크
+- ![image](https://github.com/leegowoon/react/assets/145514701/e5627fc0-b1bc-49bb-9142-9780fd6b31af)
 
-
+# ☕ 버튼을 클릭해서 페이지로 갈 때(함수안에서 사용하는 방법)
+- 
 
