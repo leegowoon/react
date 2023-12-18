@@ -3,7 +3,7 @@
 - 공식사이트 주소 : https://reactrouter.com/en/main/start/tutorial
 
 # 설치하기 -- npm install react-router-dom
-1. BrowserRouter 적기 -- BrowserRouter는 react 전체를 싸주어야한다.
+1. BrowserRouter 적기 -- BrowserRouter는 react 전체를 싸주어야한다. > BrowserRouter import 연결
   ![image](https://github.com/leegowoon/react/assets/145514701/84dd5d00-db91-4e0c-a5fe-e55ac4589f32)
 2. page안에 js를 만든다. > import로 연결하기
   ![image](https://github.com/leegowoon/react/assets/145514701/eae34ce7-bade-449d-8af9-240442aac45f)
