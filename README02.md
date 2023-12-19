@@ -67,17 +67,5 @@ function App() {
 export default App;
 ```
 ---
-- 기본셋팅
-```
-import "./App.css";
-
-
-function App() {
-  return(
-    <>
-    </>
-  )
-}
-
-export default App;
-```
+- 기본셋팅   
+![image](https://github.com/leegowoon/react/assets/145514701/7f26ad4c-54c5-4084-b39e-90b75cf630c4)
