@@ -24,6 +24,6 @@
 # ☕ 버튼을 클릭해서 페이지로 갈 때(함수안에서 사용하는 방법)   
 ![image](https://github.com/leegowoon/react/assets/145514701/7b4bbd8b-9c93-42ee-917c-e2aafacf8af2)
 
-![src3](https://github.com/leegowoon/react/assets/145514701/3eb031a8-57d4-4489-ac50-ccbf6516fd14)
+![src3](https://github.com/leegowoon/react/assets/145514701/f84a2312-4b8f-4f4c-a6f2-ccf6352706ab)
 - 노랑 : 링크로 연결해서 페이지로 갈 때
 - 분홍 : 버튼을 클릭해서 페이지로 갈 때(함수안에서 사용하는 방법)
