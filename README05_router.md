@@ -1,3 +1,5 @@
+# 폴더 src3 참조하기
+
 # 🌾 react-router-dom 설치하기 >> 페이지를 나누는 역할
 
 - 공식사이트 주소 : https://reactrouter.com/en/main/start/tutorial
@@ -23,3 +25,5 @@
 ![image](https://github.com/leegowoon/react/assets/145514701/7b4bbd8b-9c93-42ee-917c-e2aafacf8af2)
 
 ![src3](https://github.com/leegowoon/react/assets/145514701/3eb031a8-57d4-4489-ac50-ccbf6516fd14)
+- 노랑 : 링크로 연결해서 페이지로 갈 때
+- 분홍 : 버튼을 클릭해서 페이지로 갈 때(함수안에서 사용하는 방법)
