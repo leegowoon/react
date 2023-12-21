@@ -1,4 +1,4 @@
-# 💛 useEffect
+# 💛 useEffect -- src4폴더 참조
 
 # 🖤 useEffect(()=>{},[])
 - useEffect(()=>{},[]) --> 배열이 비어있을 경우에는 component가 실행될 때 처음 한번만 실행된다.   
