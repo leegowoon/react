@@ -60,6 +60,12 @@ return (
 ![image](https://github.com/leegowoon/react/assets/145514701/2422a2d0-59d4-4334-bc96-d83866877bb6)   
 ![image](https://github.com/leegowoon/react/assets/145514701/840ec332-f9d8-4b19-98ec-113e3a12faeb)
 
+---
+# 12월 21일(목)
+- useEffect()가 종료되는 시점에 데이타가 변경된다.   
+![image](https://github.com/leegowoon/react/assets/145514701/83ceb479-ba9e-48e0-98ee-b210b8bd89dc)
+
+
 
 
 
