@@ -65,7 +65,51 @@ return (
 - useEffect()가 종료되는 시점에 데이타가 변경된다.   
 ![image](https://github.com/leegowoon/react/assets/145514701/83ceb479-ba9e-48e0-98ee-b210b8bd89dc)
 
+# 12월 22일(금)
+- 이전값 prev
+- setNum((이전값)=>이전값 + 1)
+- 
+```
+import { useState } from "react";
+import "./App.css";
 
+function App() {
+  //let num = 0;
+  
+  // const num = useState(3)[0];
+  // const setNum = useState(3)[1]; //구조분해문법
+
+  let [num, setNum] = useState(0); // --> 위 두 코드를 요약하면
+
+  return (
+    <div className="counter">
+      <span className="number">{num}</span>
+      <button className="button" onClick={()=>{
+
+        // 아래 코드 세줄에서는 값이 변화가 없다.
+        // 상태값은 함수가 종료 후 다시 함수가 실행될 때 반영되기 때문이다.
+        // num은 모두 0이다.
+        // setNum(num + 1) //setNum(num++); --> 이 코드는 여기서 한번 더 실행된다. 그래서++을 잘 안 사용한다. 값만 기억한다.
+        // setNum(num + 1)
+        // setNum(num + 1)
+
+        // prev는 이전값을 가지고 있음
+        // setNum((prev)=> {
+        //   return prev + 1})
+
+         setNum((prev)=>prev + 1)   //1 //setNum(num + 1)와 값이 같다.
+        // setNum((prev)=>prev + 1) //2
+        // setNum((prev)=>prev + 1) //3
+
+        // setNum((prev)=>prev + 1); // --> 
+        // console.log(prev + 1); // --> console.log(num)이 3일 때 setNum(num+1)는 4인 이유 --> num이 set 한단계 느리다.=3인걸 기억만하고 실행X -->
+        }}>1씩증가</button>
+    </div>
+  );
+}
+
+export default App;
+```
 
 
 
