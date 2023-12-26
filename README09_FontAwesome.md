@@ -22,6 +22,8 @@ npm install --save @fortawesome/react-fontawesome
 
 ![image](https://github.com/leegowoon/react/assets/145514701/d19219f7-c9c8-45ed-b8e8-de5703c4a055)
 
+![image](https://github.com/leegowoon/react/assets/145514701/bbc34320-a083-4c13-a49c-dfa28f142782)
+
 ---
 - Link
 - https://fontawesome.com/docs/web/use-with/react/add-icons#add-icons-globally
